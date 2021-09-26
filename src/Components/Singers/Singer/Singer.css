@@ -1,5 +1,5 @@
 .singer-container{
-    background-color: blueviolet;
+    background-color: rgb(181, 109, 248);
     border-radius: 1rem;
 }
 .singer-container img{
@@ -9,11 +9,17 @@
     border-radius: 50%;
 }
 .button{
-    background-color: chocolate;
-    color: whitesmoke;
-    margin-bottom: 2rem;
-    font-size: 1.5rem;
+    background-color: rgb(86, 31, 238);
+    color: rgb(245, 242, 242);
+    font-size: 1rem;
+    font-weight: 600;
+    padding: .5rem;
     border-radius: .5rem;
     border: rgb(77, 69, 70) solid 2px;
     cursor: pointer;
 }
+.icon{
+    width: 60%;
+    margin: 1rem auto;
+    display: flex;
+justify-content: space-evenly;}

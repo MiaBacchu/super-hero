@@ -2,6 +2,7 @@ import React from 'react';
 import './Singer.css';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { SocialIcon } from 'react-social-icons';
 
 const Singer = (props) => {
     // font awesome icon here
@@ -19,6 +20,12 @@ const Singer = (props) => {
             <button
                 onClick={() => props.handleButton(props.singer)}
                 className="button">{element} Add To Cart</button>
+
+            <p className='icon'>
+                <span><SocialIcon url="https://facebook.com/in/jaketrent" /></span>
+                <span><SocialIcon url="https://linkedin.com/in/jaketrent" /></span>
+                <span><SocialIcon url="https://twitter.com/in/jaketrent" /></span>
+            </p>
 
         </div>
     );
