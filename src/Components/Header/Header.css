@@ -1,0 +1,11 @@
+.header-container{
+    background-color: khaki;
+    border-radius: 1rem;
+    width: 95%;
+    margin: 1rem auto;
+    padding-bottom:.1rem;
+}
+.header-name{
+    font-size: 4rem;
+    color: dodgerblue;
+}

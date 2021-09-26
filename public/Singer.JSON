@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Shakira",
+        "gender": "female",
+        "age": "43",
+        "country": "Colombia",
+        "rate": 230000,
+        "img": "https://starsunfolded.com/wp-content/uploads/2016/07/shakira.jpg"
+    },
+    {
+        "name": "Akon",
+        "gender": "male",
+        "age": "48",
+        "country": "USA",
+        "rate": 200000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLhFUZCKNScHA-2-a2fhoRYO3mvaUwrJHOb8s9SPDXAMzBcMHUv9WbDTEZ0XlB-KMxbA&usqp=CAU"
+    },
+    {
+        "name": "pitbull",
+        "gender": "male",
+        "age": "40",
+        "country": "USA",
+        "rate": 220000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzaM-rfjK8tydhwRcV8kC1z4q9YQIJ7xi0-Q&usqp=CAU"
+    },
+    {
+        "name": "Adele",
+        "gender": "female",
+        "age": "32",
+        "country": "UK",
+        "rate": 190000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-GnSi4q047mXWzYiiCwGURRnMQuyh4BpYA&usqp=CAU"
+    },
+    {
+        "name": "Rihanna",
+        "gender": "female",
+        "age": "33",
+        "country": "Barbados",
+        "rate": 130000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvdo97U8CzeWkcbnbGD3IA4UlwwmQ5yB1_g&usqp=CAU"
+    },
+    {
+        "name": "Justin Bieber",
+        "gender": "male",
+        "age": "27",
+        "country": "Canada",
+        "rate": 250000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHMnTsJuolNqYYRzblEoMuZ969H5p8mnetA&usqp=CAU"
+    },
+    {
+        "name": "Selena Gomez",
+        "gender": "female",
+        "age": "29",
+        "country": "USA",
+        "rate": 230000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-Vm3qAHeuyTsuc8SVQTHqkVAL2lcNEiAvw&usqp=CAU"
+    },
+    {
+        "name": " Christina Perri",
+        "gender": "female",
+        "age": "35",
+        "country": "USA",
+        "rate": 200000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfThT4oZQVaMW_nJUgQbTVMuVkOLARYxZ5PA&usqp=CAU"
+    },
+    {
+        "name": "Zayn Malik",
+        "gender": "male",
+        "age": "28",
+        "country": "UK",
+        "rate": 200000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolO647cWzuiXL3OB9LbTwKcveyqUz6zmwog&usqp=CAU"
+    },
+    {
+        "name": "Taylor Swift",
+        "gender": "female",
+        "age": "31",
+        "country": "USA",
+        "rate": 190000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9nF7TQTaPL8AHiC--wpcX2Iqitvab1jeNQ&usqp=CAU"
+    },
+    {
+        "name": "Gigi Hadid",
+        "gender": "female",
+        "age": "26",
+        "country": "USA",
+        "rate": 180000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIuBi5hb-hPHb8cIRcYiuuR6s-CAe5ib8HQ&usqp=CAU"
+    }
+]
