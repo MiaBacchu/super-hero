@@ -4,8 +4,9 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Singer = (props) => {
-    // console.log(props.handleButton)
+    // font awesome icon here
     const element = <FontAwesomeIcon icon={faShoppingCart} />
+    // destructuring props
     const { img, name, age, country, gender, rate } = props.singer
     return (
         <div className='singer-container'>

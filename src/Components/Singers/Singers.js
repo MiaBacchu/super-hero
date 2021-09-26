@@ -5,6 +5,7 @@ import Singer from './Singer/Singer';
 import './Singers.css'
 
 const Singers = () => {
+    // handle usestate & useeffect here
     const [singers, setSingers] = useState([])
     const [cart, setCarts] = useState([])
     useEffect(() => {
@@ -12,6 +13,7 @@ const Singers = () => {
             .then(res => res.json())
             .then(data => setSingers(data))
     }, [])
+    // handle the singers button
     const handleButton = singer => {
         const newCart = [...cart, singer]
         setCarts(newCart)
